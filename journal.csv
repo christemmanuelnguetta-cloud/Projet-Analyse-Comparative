@@ -1,0 +1,57 @@
+﻿enseigne;article;probleme;action
+Lagune;SAMSUNG GALAXY A15 (128GB);ligne en double;supprimée
+Lagune;"TV HISENSE 32""";ligne en double;supprimée
+Lagune;(tous les articles);prix écrits en texte ('102 900 FCFA');convertis en nombres
+Lagune;(tous les articles);notes avec virgule décimale ('4,0');converties en nombres
+Lagune;"ECRAN SAMSUNG 24""";prix inutilisable (Prix sur demande);exclu du comparatif
+Lagune;MIXEUR MOULINEX 1.5L;prix inutilisable (nan);exclu du comparatif
+Lagune;TECNO SPARK 20 - 128GB;prix aberrant (779000 > ancien prix 88700);divisé par 10
+Lagune;  souris sans fil logitech m185 ;nom en minuscules;mis en majuscules
+Lagune;SAMSUNG GALAXY A15 (128GB);en rupture;non retenu comme moins cher
+Lagune;SAMSUNG GALAXY A55 (256GB);en rupture;non retenu comme moins cher
+Lagune;ITEL A70 64GB;en rupture;non retenu comme moins cher
+Lagune;PC PORTABLE DELL INSPIRON 15 I5 16GB/512GB;en rupture;non retenu comme moins cher
+Lagune;"TV HISENSE 32""";en rupture;non retenu comme moins cher
+Lagune;MIXEUR MOULINEX 1.5L;en rupture;non retenu comme moins cher
+Baobab;Philips Steam Iron;prix manquant (null);exclu du comparatif
+Baobab;Galaxy A55 256GB - Samsung;stock à 0;non retenu comme moins cher
+Baobab;Logitech M185 Wireless Mouse;stock à 0;non retenu comme moins cher
+Baobab;Hisense Air Conditioner 1.5HP;stock à 0;non retenu comme moins cher
+Baobab;(tous les articles);titres en anglais, modèle avant la marque;rapprochés par mots-clés
+Baobab;(tous les articles);livraison facturée en plus du prix;prix payé = amount + delivery_fee
+Comptoir;Clim LG 1CV;prix en texte ('279 300');converti en nombre
+Comptoir;(tous les articles);remise (%) à déduire du prix catalogue;prix payé = prix catalogue x (1 - remise/100)
+Comptoir;"TV Samsung 43""";stock à 0;non retenu comme moins cher
+Comptoir;"Ventilo Binatone 16""";stock à 0;non retenu comme moins cher
+Comptoir;Samsun Galaxy A15 128Go;faute de frappe (« Samsun »);rapproché grâce au mot-clé 'a15'
+Comptoir;Mixeur Moulinex;nom incomplet (marque ou modèle manquant);rapproché par mots-clés
+Comptoir;Bouilloire 1,7L;nom incomplet (marque ou modèle manquant);rapproché par mots-clés
+Comptoir;Fer Philips;nom incomplet (marque ou modèle manquant);rapproché par mots-clés
+Lagune;SAMSUNG GALAXY A15 (128GB);ligne en double;supprimée
+Lagune;"TV HISENSE 32""";ligne en double;supprimée
+Lagune;(tous les articles);prix écrits en texte ('102 900 FCFA');convertis en nombres
+Lagune;(tous les articles);notes avec virgule décimale ('4,0');converties en nombres
+Lagune;"ECRAN SAMSUNG 24""";prix inutilisable (Prix sur demande);exclu du comparatif
+Lagune;MIXEUR MOULINEX 1.5L;prix inutilisable (nan);exclu du comparatif
+Lagune;TECNO SPARK 20 - 128GB;prix aberrant (779000 > ancien prix 88700);divisé par 10
+Lagune;  souris sans fil logitech m185 ;nom en minuscules;mis en majuscules
+Lagune;SAMSUNG GALAXY A15 (128GB);en rupture;non retenu comme moins cher
+Lagune;SAMSUNG GALAXY A55 (256GB);en rupture;non retenu comme moins cher
+Lagune;ITEL A70 64GB;en rupture;non retenu comme moins cher
+Lagune;PC PORTABLE DELL INSPIRON 15 I5 16GB/512GB;en rupture;non retenu comme moins cher
+Lagune;"TV HISENSE 32""";en rupture;non retenu comme moins cher
+Lagune;MIXEUR MOULINEX 1.5L;en rupture;non retenu comme moins cher
+Baobab;Philips Steam Iron;prix manquant (null);exclu du comparatif
+Baobab;Galaxy A55 256GB - Samsung;stock à 0;non retenu comme moins cher
+Baobab;Logitech M185 Wireless Mouse;stock à 0;non retenu comme moins cher
+Baobab;Hisense Air Conditioner 1.5HP;stock à 0;non retenu comme moins cher
+Baobab;(tous les articles);titres en anglais, modèle avant la marque;rapprochés par mots-clés
+Baobab;(tous les articles);livraison facturée en plus du prix;prix payé = amount + delivery_fee
+Comptoir;Clim LG 1CV;prix en texte ('279 300');converti en nombre
+Comptoir;(tous les articles);remise (%) à déduire du prix catalogue;prix payé = prix catalogue x (1 - remise/100)
+Comptoir;"TV Samsung 43""";stock à 0;non retenu comme moins cher
+Comptoir;"Ventilo Binatone 16""";stock à 0;non retenu comme moins cher
+Comptoir;Samsun Galaxy A15 128Go;faute de frappe (« Samsun »);rapproché grâce au mot-clé 'a15'
+Comptoir;Mixeur Moulinex;nom incomplet (marque ou modèle manquant);rapproché par mots-clés
+Comptoir;Bouilloire 1,7L;nom incomplet (marque ou modèle manquant);rapproché par mots-clés
+Comptoir;Fer Philips;nom incomplet (marque ou modèle manquant);rapproché par mots-clés
